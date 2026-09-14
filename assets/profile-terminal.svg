@@ -1,0 +1,141 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Abdelkrim Bellagnech GitHub terminal banner">
+  <defs>
+    <linearGradient id="pageBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#010101"/>
+      <stop offset="55%" stop-color="#050607"/>
+      <stop offset="100%" stop-color="#020304"/>
+    </linearGradient>
+    <radialGradient id="redGlow" cx="0.04" cy="0.32" r="0.64">
+      <stop offset="0%" stop-color="#7d1823" stop-opacity="0.18"/>
+      <stop offset="60%" stop-color="#7d1823" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="#7d1823" stop-opacity="0"/>
+      <animate attributeName="cx" values="0.04;0.18;0.04" dur="16s" repeatCount="indefinite"/>
+    </radialGradient>
+    <radialGradient id="blueGlow" cx="0.96" cy="0.74" r="0.60">
+      <stop offset="0%" stop-color="#15549b" stop-opacity="0.16"/>
+      <stop offset="60%" stop-color="#15549b" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="#15549b" stop-opacity="0"/>
+      <animate attributeName="cx" values="0.96;0.82;0.96" dur="18s" repeatCount="indefinite"/>
+    </radialGradient>
+    <linearGradient id="barFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="65%" stop-color="#4ade80"/>
+      <stop offset="100%" stop-color="#86efac"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="16" fill="url(#pageBg)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#redGlow)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#blueGlow)"/>
+
+  <rect x="18" y="18" width="1164" height="264" rx="12" fill="#050607" stroke="#1f2937" stroke-opacity="0.78" stroke-width="1.5"/>
+  <rect x="18" y="18" width="1164" height="30" rx="12" fill="#090b0e"/>
+  <rect x="18" y="36" width="1164" height="12" fill="#090b0e"/>
+  <circle cx="38" cy="33" r="4" fill="#4b5563"/>
+  <circle cx="52" cy="33" r="4" fill="#374151"/>
+  <circle cx="66" cy="33" r="4" fill="#374151"/>
+  <text x="600" y="38" text-anchor="middle"
+        font-family="'Liberation Mono', 'DejaVu Sans Mono', Consolas, Menlo, monospace"
+        font-size="12" fill="#68707d">bash — karembe@github</text>
+
+  <g id="terminal">
+    <text x="48" y="83"
+          font-family="'Liberation Mono', 'DejaVu Sans Mono', Consolas, Menlo, monospace"
+          font-size="20" fill="#39e675">
+      karembe@github:~$
+      <tspan fill="#d7dde6"> load profile --user karembe</tspan>
+    </text>
+
+    <text x="48" y="124"
+          font-family="'Liberation Mono', 'DejaVu Sans Mono', Consolas, Menlo, monospace"
+          font-size="19" fill="#50c7f5">
+      [INFO]
+      <tspan fill="#d7dde6"> Initializing karembe's profile...</tspan>
+    </text>
+
+    <rect x="48" y="145" width="1104" height="16" rx="3" fill="#171b22" stroke="#252b34" stroke-width="1"/>
+    <rect x="48" y="145" width="0" height="16" rx="3" fill="url(#barFill)">
+      <animate attributeName="width" values="0;1104" dur="2.8s" fill="freeze"/>
+    </rect>
+
+    <text x="48" y="197"
+          font-family="'Liberation Mono', 'DejaVu Sans Mono', Consolas, Menlo, monospace"
+          font-size="16" fill="#88919e" opacity="0">
+      [OK] secure systems · cloud platforms · reliability
+      <animate attributeName="opacity" values="0;1" begin="0.7s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="48" y="226"
+          font-family="'Liberation Mono', 'DejaVu Sans Mono', Consolas, Menlo, monospace"
+          font-size="16" fill="#88919e" opacity="0">
+      [OK] building engineering identity...
+      <animate attributeName="opacity" values="0;1" begin="1.45s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <text x="48" y="255"
+          font-family="'Liberation Mono', 'DejaVu Sans Mono', Consolas, Menlo, monospace"
+          font-size="16" fill="#88919e" opacity="0">
+      [OK] status: ready
+      <animate attributeName="opacity" values="0;1" begin="2.15s" dur="0.3s" fill="freeze"/>
+    </text>
+
+    <rect x="47" y="67" width="8" height="20" fill="#d7dde6" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;0;1;0" keyTimes="0;0.56;0.63;0.72;0.81;1" dur="3.1s" fill="freeze"/>
+    </rect>
+
+    <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.86;1" begin="0s" dur="3.35s" fill="freeze"/>
+  </g>
+
+  <g opacity="0">
+    <text x="600" y="159" text-anchor="middle"
+          font-family="'Liberation Mono', 'DejaVu Sans Mono', Consolas, Menlo, monospace"
+          font-size="42" font-weight="700" fill="#d34a57" opacity="0.34">
+      @karembe
+      <animate attributeName="x" values="600;605;595;602;600" begin="3.35s" dur="0.42s" repeatCount="4"/>
+    </text>
+    <text x="600" y="159" text-anchor="middle"
+          font-family="'Liberation Mono', 'DejaVu Sans Mono', Consolas, Menlo, monospace"
+          font-size="42" font-weight="700" fill="#3aa8eb" opacity="0.34">
+      @karembe
+      <animate attributeName="x" values="600;594;606;598;600" begin="3.35s" dur="0.39s" repeatCount="4"/>
+    </text>
+    <text x="600" y="159" text-anchor="middle"
+          font-family="'Liberation Mono', 'DejaVu Sans Mono', Consolas, Menlo, monospace"
+          font-size="42" font-weight="700" fill="#e5e7eb">@karembe</text>
+    <rect x="390" y="130" width="420" height="1.5" fill="#d34a57" opacity="0">
+      <animate attributeName="opacity" values="0;0.7;0;0.5;0" begin="3.55s" dur="0.8s"/>
+      <animate attributeName="y" values="130;178;136;151;130" begin="3.55s" dur="0.8s"/>
+    </rect>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.78;1" begin="3.30s" dur="2.05s" fill="freeze"/>
+  </g>
+
+  <g opacity="0">
+    <text x="600" y="123" text-anchor="middle"
+          font-family="'Liberation Mono', 'DejaVu Sans Mono', Consolas, Menlo, monospace"
+          font-size="39" font-weight="700" fill="#eceff4">
+      Abdelkrim Bellagnech
+      <animate attributeName="y" values="138;123" begin="5.25s" dur="0.9s" fill="freeze"/>
+    </text>
+
+    <rect x="389" y="145" width="0" height="2" rx="1" fill="#39e675" opacity="0.9">
+      <animate attributeName="width" values="0;422" begin="5.45s" dur="0.9s" fill="freeze"/>
+    </rect>
+
+    <text x="600" y="187" text-anchor="middle"
+          font-family="'Liberation Mono', 'DejaVu Sans Mono', Consolas, Menlo, monospace"
+          font-size="19" font-weight="600" fill="#50c7f5">
+      Software Engineering · DevSecOps · Cloud Engineering
+      <animate attributeName="y" values="202;187" begin="5.62s" dur="0.9s" fill="freeze"/>
+    </text>
+
+    <text x="600" y="226" text-anchor="middle"
+          font-family="'Liberation Mono', 'DejaVu Sans Mono', Consolas, Menlo, monospace"
+          font-size="15" fill="#7f8998">secure systems · cloud platforms · reliability</text>
+
+    <text x="600" y="254" text-anchor="middle"
+          font-family="'Liberation Mono', 'DejaVu Sans Mono', Consolas, Menlo, monospace"
+          font-size="13" fill="#515965">github.com/karembe</text>
+
+    <animate attributeName="opacity" values="0;1" begin="5.1s" dur="0.8s" fill="freeze"/>
+  </g>
+</svg>
