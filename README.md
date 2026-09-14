@@ -22,20 +22,6 @@ I build secure backend and cloud-native systems, with a growing focus on **relia
 
 ---
 
-## Currently Building
-
-### [Tally](https://github.com/karembe/Tally) — crash-safe systems meet DevSecOps
-
-**Flagship project · in development**
-
-I'm building Tally around a production-oriented transaction system where the first priority is **correctness under failure**: idempotent and crash-safe transfers, an append-only hash-chained event log, reconciliation, and verifiable system invariants.
-
-The platform path is designed around **Kubernetes + Helm, GitOps with Argo CD, GitLab CI/CD security gates, AWS infrastructure with Terraform, hardened runtime controls, and SRE observability with Prometheus, Grafana, OpenTelemetry, alerts, and SLOs**.
-
-`Java` · `Spring Boot` · `PostgreSQL` · `Kubernetes` · `Helm` · `Argo CD` · `GitLab CI/CD` · `AWS` · `Terraform` · `Prometheus` · `Grafana`
-
----
-
 ## Technologies & Tools
 
 **Languages**  
