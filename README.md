@@ -14,11 +14,11 @@ I build secure backend and cloud-native systems, with a growing focus on **relia
 
 ## About Me
 
-- 🎓 **Software Engineering student at ENSIBS**, with a strong focus on software security, cloud, and platform engineering
-- ⚙️ Interested in **backend systems, cloud infrastructure, platform engineering, and distributed systems**
-- 🛡️ I treat **security, reliability, and observability as design constraints**, not afterthoughts
-- 🚀 Currently building **[Tally](https://github.com/karembe/Tally)**, my flagship DevSecOps / SRE / systems engineering project
-- 📍 Based in **France 🇫🇷**
+`[EDU]` **Software Engineering student at ENSIBS**, with a strong focus on software security, cloud, and platform engineering  
+`[FOCUS]` Interested in **backend systems, cloud infrastructure, platform engineering, and distributed systems**  
+`[SEC]` I treat **security, reliability, and observability as design constraints**, not afterthoughts  
+`[BUILD]` Currently building [**Tally**](https://github.com/karembe/Tally), my flagship DevSecOps / SRE / systems engineering project  
+`[LOC]` Based in **France**
 
 ---
 
@@ -33,37 +33,6 @@ I'm building Tally around a production-oriented transaction system where the fir
 The platform path is designed around **Kubernetes + Helm, GitOps with Argo CD, GitLab CI/CD security gates, AWS infrastructure with Terraform, hardened runtime controls, and SRE observability with Prometheus, Grafana, OpenTelemetry, alerts, and SLOs**.
 
 `Java` · `Spring Boot` · `PostgreSQL` · `Kubernetes` · `Helm` · `Argo CD` · `GitLab CI/CD` · `AWS` · `Terraform` · `Prometheus` · `Grafana`
-
----
-
-## Featured Projects
-
-<p align="center">
-  <a href="https://github.com/karembe/Tally">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karembe&repo=Tally&theme=transparent&hide_border=true" alt="Tally repository" />
-  </a>
-  <a href="https://github.com/karembe/Agora">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karembe&repo=Agora&theme=transparent&hide_border=true" alt="Agora repository" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/karembe/ENSET-AI">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karembe&repo=ENSET-AI&theme=transparent&hide_border=true" alt="ENSET AI repository" />
-  </a>
-  <a href="https://github.com/faseeh-app/Faseeh">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=faseeh-app&repo=Faseeh&theme=transparent&hide_border=true&show_owner=true" alt="Faseeh repository" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/karembe/ML_Trained_Firewall_For_Web_Apps">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karembe&repo=ML_Trained_Firewall_For_Web_Apps&theme=transparent&hide_border=true" alt="ML WAF repository" />
-  </a>
-  <a href="https://github.com/karembe/E-Bank">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karembe&repo=E-Bank&theme=transparent&hide_border=true" alt="E-Bank repository" />
-  </a>
-</p>
 
 ---
 
