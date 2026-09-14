@@ -36,46 +36,34 @@ The platform path is designed around **Kubernetes + Helm, GitOps with Argo CD, G
 
 ---
 
-## Featured Engineering
+## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/karembe/Tally">Tally</a></h3>
-<p><b>Flagship DevSecOps / SRE systems project.</b> A crash-safe transaction system being built around tamper evidence, GitOps, cloud infrastructure, runtime hardening, and production observability.</p>
-<p><code>Java</code> <code>Kubernetes</code> <code>AWS</code> <code>Terraform</code> <code>Argo CD</code> <code>Observability</code></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/karembe/Agora">Agora</a></h3>
-<p><b>Secure AI agent platform.</b> A self-hosted, capability-isolated platform with a Spring Boot gateway, Python agent services, RBAC, human-in-the-loop approvals, policy enforcement, tamper-evident audit logging, and observability.</p>
-<p><code>Spring Boot</code> <code>Python</code> <code>React</code> <code>PostgreSQL</code> <code>Redis</code> <code>Docker</code></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/karembe/ENSET-AI">ENSET AI</a></h3>
-<p><b>Private RAG platform.</b> A self-hosted academic AI system for authenticated document chat, source citations, streaming responses, administration, private storage, and vector retrieval.</p>
-<p><code>Python</code> <code>Flask</code> <code>React</code> <code>PostgreSQL</code> <code>Qdrant</code> <code>MinIO</code></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/faseeh-app/Faseeh">Faseeh</a></h3>
-<p><b>Local-first extensible desktop software.</b> A collaborative language-learning toolkit built around a plugin architecture, interactive media, local data, and a customizable desktop experience.</p>
-<p><code>Electron</code> <code>Vue.js</code> <code>TypeScript</code> <code>SQLite</code></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/karembe/ML_Trained_Firewall_For_Web_Apps">ML WAF</a></h3>
-<p><b>Machine-learned web application firewall.</b> An inline reverse proxy that detects SQL injection and XSS in real HTTP traffic, with explainable decisions, an operator console, and reproducible testing.</p>
-<p><code>Python</code> <code>LightGBM</code> <code>scikit-learn</code> <code>FastAPI</code> <code>Docker</code></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/karembe/E-Bank">E-Bank</a></h3>
-<p><b>Distributed digital banking platform.</b> A Java/Spring microservices system with Kafka event streaming, idempotent money operations, an outbox pattern, service discovery, and ledger reconciliation.</p>
-<p><code>Java</code> <code>Spring Boot</code> <code>Kafka</code> <code>Spring Cloud</code> <code>Angular</code> <code>Docker</code></p>
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/karembe/Tally">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karembe&repo=Tally&theme=transparent&hide_border=true" alt="Tally repository" />
+  </a>
+  <a href="https://github.com/karembe/Agora">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karembe&repo=Agora&theme=transparent&hide_border=true" alt="Agora repository" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/karembe/ENSET-AI">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karembe&repo=ENSET-AI&theme=transparent&hide_border=true" alt="ENSET AI repository" />
+  </a>
+  <a href="https://github.com/faseeh-app/Faseeh">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=faseeh-app&repo=Faseeh&theme=transparent&hide_border=true&show_owner=true" alt="Faseeh repository" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/karembe/ML_Trained_Firewall_For_Web_Apps">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karembe&repo=ML_Trained_Firewall_For_Web_Apps&theme=transparent&hide_border=true" alt="ML WAF repository" />
+  </a>
+  <a href="https://github.com/karembe/E-Bank">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=karembe&repo=E-Bank&theme=transparent&hide_border=true" alt="E-Bank repository" />
+  </a>
+</p>
 
 ---
 
