@@ -57,20 +57,3 @@ A tactical C++ puzzle game built with SFML and CMake, featuring custom circular-
 
 ### [Robot Battle Engine](https://github.com/karembe/Robot-Battle-Engine)
 A programmable Java robot-battle simulator with runtime JAR loading, autonomous teams, real-time combat, a Swing operator UI, and automated tests.
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karembe&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Abdelkrim's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karembe&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
-</p>
-
----
-
-## Let's Connect
-
-I'm interested in building **secure, reliable, and scalable software**, cloud platforms, and developer infrastructure.
-
-[LinkedIn](https://www.linkedin.com/in/abdelkrim-bellagnech) · [Email](mailto:abdelkrimbellagnech@gmail.com)
