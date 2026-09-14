@@ -44,16 +44,3 @@ I build secure backend and cloud-native systems, with a growing focus on **relia
 
 **Frontend & Desktop**  
 `React` · `Vue.js` · `Electron`
-
----
-
-## Selected Projects
-
-### [Azure Threat Simulation Lab](https://github.com/karembe/azure-identity-threat-simulator)
-Controlled Azure identity attack simulation with service principals, RBAC, Key Vault and Storage activity, Log Analytics telemetry, KQL detection, and Azure Monitor alerting.
-
-### [Tetriste](https://github.com/karembe/Tetriste)
-A tactical C++ puzzle game built with SFML and CMake, featuring custom circular-buffer game mechanics, persistence, achievements, and standalone tests.
-
-### [Robot Battle Engine](https://github.com/karembe/Robot-Battle-Engine)
-A programmable Java robot-battle simulator with runtime JAR loading, autonomous teams, real-time combat, a Swing operator UI, and automated tests.
